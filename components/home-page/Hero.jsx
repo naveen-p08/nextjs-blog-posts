@@ -7,7 +7,7 @@ function Hero() {
       <div className={styles.image}>
         <Image src={'/images/site/hero.jpg'} alt={'image'} width={300} height={300}/>
       </div>
-      <h1>Hi, I'm N</h1>
+      <h1>Hi, I'm Naveen</h1>
       <p>I blog about web development - especially frameworks like React and Nextjs</p>
     </section>
   );
